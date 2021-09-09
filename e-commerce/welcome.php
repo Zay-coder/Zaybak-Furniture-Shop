@@ -18,7 +18,7 @@ if (!isLoggedIn()) {
     <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
-<div class="header" style="background-color: #343a40">
+<div class="header" style="background-color: #45ccb8">
     <h2>Home Page</h2>
 </div>
 <div class="content" >
